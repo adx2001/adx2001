@@ -1,6 +1,3 @@
-![Coding Banner](https://c4.wallpaperflare.com/wallpaper/34/4/853/programmer-coding-developer-wallpaper-preview.jpg)
-
-
 # Hello there! 👋 I'm Adithyan R  
 
 Welcome to my GitHub profile! 🚀
